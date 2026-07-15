@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/wildanniam"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-wildanniam-0B1220?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/mizanialriyzqi"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-wildanniam-0B1220?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ## About Me
