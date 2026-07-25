@@ -42,12 +42,12 @@ I am interested in systems that can observe state
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
-- Jul 21, 2026: merged pull request [#20](https://github.com/wildanniam/web-portfolio) in [wildanniam/web-portfolio](https://github.com/wildanniam/web-portfolio).
-- Jul 21, 2026: pushed 1 commit to [wildanniam/web-portfolio](https://github.com/wildanniam/web-portfolio).
-- Jul 21, 2026: closed issue [#19](https://github.com/wildanniam/web-portfolio/issues/19) in [wildanniam/web-portfolio](https://github.com/wildanniam/web-portfolio).
-- Jul 21, 2026: opened pull request [#20](https://github.com/wildanniam/web-portfolio) in [wildanniam/web-portfolio](https://github.com/wildanniam/web-portfolio).
-- Jul 21, 2026: created a branch in [wildanniam/web-portfolio](https://github.com/wildanniam/web-portfolio).
-- Jul 21, 2026: opened issue [#19](https://github.com/wildanniam/web-portfolio/issues/19) in [wildanniam/web-portfolio](https://github.com/wildanniam/web-portfolio).
+- Jul 24, 2026: pushed 1 commit to [wildanniam/wildanniam](https://github.com/wildanniam/wildanniam).
+- Jul 24, 2026: merged pull request [#17](https://github.com/wildanniam/wildanniam) in [wildanniam/wildanniam](https://github.com/wildanniam/wildanniam).
+- Jul 24, 2026: closed issue [#16](https://github.com/wildanniam/wildanniam/issues/16) in [wildanniam/wildanniam](https://github.com/wildanniam/wildanniam).
+- Jul 24, 2026: opened pull request [#17](https://github.com/wildanniam/wildanniam) in [wildanniam/wildanniam](https://github.com/wildanniam/wildanniam).
+- Jul 24, 2026: created a branch in [wildanniam/wildanniam](https://github.com/wildanniam/wildanniam).
+- Jul 24, 2026: opened issue [#16](https://github.com/wildanniam/wildanniam/issues/16) in [wildanniam/wildanniam](https://github.com/wildanniam/wildanniam).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
