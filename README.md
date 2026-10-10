@@ -42,12 +42,12 @@ I am interested in systems that can observe state
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
+- Oct 10, 2026: merged pull request [#24](https://github.com/wildanniam/yieldex-rwa) in [wildanniam/yieldex-rwa](https://github.com/wildanniam/yieldex-rwa).
+- Oct 10, 2026: closed issue [#23](https://github.com/wildanniam/yieldex-rwa/issues/23) in [wildanniam/yieldex-rwa](https://github.com/wildanniam/yieldex-rwa).
+- Oct 9, 2026: created a branch in [wildanniam/yieldex-rwa](https://github.com/wildanniam/yieldex-rwa).
 - Oct 9, 2026: pushed 1 commit to [wildanniam/yieldex-rwa](https://github.com/wildanniam/yieldex-rwa).
-- Oct 9, 2026: opened issue [#8](https://github.com/wildanniam/yieldex-rwa/issues/8) in [wildanniam/yieldex-rwa](https://github.com/wildanniam/yieldex-rwa).
-- Oct 9, 2026: merged pull request [#2](https://github.com/wildanniam/yieldex-rwa) in [wildanniam/yieldex-rwa](https://github.com/wildanniam/yieldex-rwa).
-- Oct 9, 2026: merged pull request [#7](https://github.com/wildanniam/yieldex-rwa) in [wildanniam/yieldex-rwa](https://github.com/wildanniam/yieldex-rwa).
-- Oct 9, 2026: closed issue [#5](https://github.com/wildanniam/yieldex-rwa/issues/5) in [wildanniam/yieldex-rwa](https://github.com/wildanniam/yieldex-rwa).
-- Oct 9, 2026: opened pull request [#7](https://github.com/wildanniam/yieldex-rwa) in [wildanniam/yieldex-rwa](https://github.com/wildanniam/yieldex-rwa).
+- Oct 10, 2026: opened pull request [#24](https://github.com/wildanniam/yieldex-rwa) in [wildanniam/yieldex-rwa](https://github.com/wildanniam/yieldex-rwa).
+- Oct 10, 2026: opened issue [#23](https://github.com/wildanniam/yieldex-rwa/issues/23) in [wildanniam/yieldex-rwa](https://github.com/wildanniam/yieldex-rwa).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
